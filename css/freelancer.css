@@ -19,10 +19,11 @@ p.small {
 a,
 a:hover,
 a:focus,
+a:hover,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #95a5a6;
 }
 
 h1,
@@ -67,11 +68,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: black;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: black;
     background-color: #fff;
 }
 
@@ -216,7 +217,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #74898a;
     background: #fff;
 }
 
@@ -269,7 +270,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #95a5a6;
 }
 
 form .row:first-child .floating-label-form-group {
